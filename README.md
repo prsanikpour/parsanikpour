@@ -7,7 +7,7 @@ Hi there! I'm a junior front-end developer passionate about building clean, inte
 React.js • JavaScript (ES6+) • HTML • CSS • Tailwind CSS • Git • GitHub
 
 📚 Currently Learning:
-Go (Golang) • Next.js • TypeScript • API Integration
+Go (Golang) • Next.js • API Integration
 
 💼 What I’m Working On:
 Building full-stack apps, refining my UI/UX skills, and learning backend development with Go.
